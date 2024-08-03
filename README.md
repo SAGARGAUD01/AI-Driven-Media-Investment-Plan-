@@ -60,6 +60,12 @@ min     4463.000000   3800.000000     45.200000    95.000000     0.000000
 75%    31034.500000  23657.250000    198.625000   547.750000     4.000000
 max    63573.000000  44893.000000    436.500000   959.000000    12.000000
 ```
+## Tools and Tech Stack
+Programming Languages: Python
+Data Analysis and Visualization: Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
+Machine Learning: Scikit-learn
+Data Storage: CSV files
+Version Control: Git and GitHub
 
 ## Project Structure
 data/: Contains all the CSV files with performance metrics.
